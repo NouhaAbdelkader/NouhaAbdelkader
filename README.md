@@ -1,46 +1,72 @@
-## Hi, I'm Nouha 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:F78CA2&height=180&section=header&text=Hi,%20I'm%20Nouha%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I'm Nouha" />
+</p>
 
-Software engineer working on an enterprise data platform: Java and .NET back ends, Angular front ends, CI/CD and security.
-ESPRIT engineering graduate.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=E75480&center=true&vCenter=true&width=520&lines=Software+engineer+%E2%9C%A8;Java+%C2%B7+.NET+%C2%B7+Angular;CI%2FCD+and+security+lover+%F0%9F%92%97" alt="Typing intro" />
+</p>
 
-### Tech stack
+<p align="center">
+  💗 Software engineer working on an enterprise data platform: Java and .NET back ends, Angular front ends, CI/CD and security.<br/>
+  🎓 ESPRIT engineering graduate
+</p>
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+---
 
-**Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_/_ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### 🎀 Tech stack
 
-**DevOps / CI**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=windows&logoColor=white)
+<p>
+  <b>Languages</b><br/>
+  <img src="https://img.shields.io/badge/Java-F78CA2?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-C77DFF?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delphi-E75480?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-D291BC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-E0AAFF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-B983FF?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
-**Security**
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![SAML / SSO](https://img.shields.io/badge/SAML_/_SSO-555555?style=flat-square)
-![TLS 1.3](https://img.shields.io/badge/TLS_1.3-555555?style=flat-square&logo=letsencrypt&logoColor=white)
+<p>
+  <b>Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F78CA2?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_/_ASP.NET-C77DFF?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-E75480?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-D291BC?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-**Databases**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <b>DevOps / CI</b><br/>
+  <img src="https://img.shields.io/badge/Jenkins-E75480?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-D291BC?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F78CA2?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-B983FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NuGet-C77DFF?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS-FFB6C1?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
-### What I work on
+<p>
+  <b>Security</b><br/>
+  <img src="https://img.shields.io/badge/Keycloak-E75480?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAML_/_SSO-D291BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TLS_1.3-F78CA2?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
 
-- Maintaining and evolving a large enterprise data platform (Delphi, C#, Angular)
-- Security upgrades: TLS 1.3 migration, SAML single sign-on with Keycloak
-- Multi-module release management and CI pipelines with Jenkins
-- Performance troubleshooting on production-like environments
-- Customer-specific integrations and features
+<p>
+  <b>Databases</b><br/>
+  <img src="https://img.shields.io/badge/SQL_Server-E75480?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-C77DFF?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🌷 What I work on
+
+- 🌸 Maintaining and evolving a large enterprise data platform (Delphi, C#, Angular)
+- 🔐 Security upgrades: TLS 1.3 migration, SAML single sign-on with Keycloak
+- 🚀 Multi-module release management and CI pipelines with Jenkins
+- ⚡ Performance troubleshooting on production-like environments
+- 🧩 Customer-specific integrations and features
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78CA2,100:FBC2EB&height=110&section=footer" alt="" />
+</p>
